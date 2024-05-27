@@ -1,1 +1,4 @@
-# tatu_emergency
+# video_emergency
+This is a bash scrip for when you need a watcha video right now!!!11 Like it's imparitive that the video be seen on your personal computer ASAP (or at leasts as fast as your connection can handle). 
+This script assumes you are on a linux system and already have VLC, wget and BASH (and like a connection to the internet [ovbi!]). I have tested this on May 26th 2024 using an ubuntu system so it is likely to work on other linux systems. This will not work if the video you want is down or not avaiable for whatever reson. It currently leaves the term open while the VLC instance is open. 
+For this script I have selcted a fine video from the internet archived. All The Things She Said by t.A.T.u. this is however ther version the is currently on YouTube and not the verion that was aired on say TRL or realsed on the enhancedCD, vcd, DVDs or via other offical multimedia. 
